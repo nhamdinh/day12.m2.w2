@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdd0594e-1806-4790-a3b4-464b44a01ff7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WNJQc6dqCYq9njUCiGMVH4dt0J" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HashMapIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapIterator" />
+      <module name="HashMapIterator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapIterator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdd0594e-1806-4790-a3b4-464b44a01ff7" name="Default Changelist" comment="" />
+      <created>1578984103377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578984103377</updated>
+      <workItem from="1578984106080" duration="6523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1261" height="324" key="GridCell.Tab.0.bottom" timestamp="1578992434289">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="324" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1578992434289" />
+    <state width="1261" height="324" key="GridCell.Tab.0.center" timestamp="1578992434288">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="324" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1578992434288" />
+    <state width="1261" height="324" key="GridCell.Tab.0.left" timestamp="1578992434287">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="324" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1578992434287" />
+    <state width="1261" height="324" key="GridCell.Tab.0.right" timestamp="1578992434289">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="324" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1578992434289" />
+    <state x="159" y="125" width="1107" height="543" maximized="true" key="dock-window-1" timestamp="1578991011638">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" maximized="true" key="dock-window-1/59.27.1307.741@59.27.1307.741" timestamp="1578991011638" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-2" timestamp="1578984862343">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-2/59.27.1307.741@59.27.1307.741" timestamp="1578984862343" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-3" timestamp="1578988570902">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-3/59.27.1307.741@59.27.1307.741" timestamp="1578988570902" />
+    <state x="59" y="27" width="1297" height="741" key="new project wizard" timestamp="1578992433786">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="59" y="27" width="1297" height="741" key="new project wizard/59.27.1307.741@59.27.1307.741" timestamp="1578992433786" />
+  </component>
+</project>
